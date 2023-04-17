@@ -1,0 +1,11 @@
+{
+    "ip":"localhost",
+    "user":"root",
+    "passwd":"admin",
+    "db_name":"testdb",
+    "port":3306,
+    "max_conn":1024,
+    "min_conn":100,
+    "time_out":1000,
+    "max_Idle_time":5000
+}

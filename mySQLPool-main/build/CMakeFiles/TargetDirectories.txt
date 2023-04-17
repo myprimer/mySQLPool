@@ -1,0 +1,3 @@
+/home/myubuntuos/mySQLPool-main/build/CMakeFiles/rebuild_cache.dir
+/home/myubuntuos/mySQLPool-main/build/CMakeFiles/mySQLPoolTest.dir
+/home/myubuntuos/mySQLPool-main/build/CMakeFiles/edit_cache.dir

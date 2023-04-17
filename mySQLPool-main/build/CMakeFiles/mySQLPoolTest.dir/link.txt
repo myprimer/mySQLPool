@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/mySQLPoolTest.dir/main.cpp.o CMakeFiles/mySQLPoolTest.dir/MySQLPool/ConnectPool.cpp.o CMakeFiles/mySQLPoolTest.dir/MySQLPool/MySQLConn.cpp.o CMakeFiles/mySQLPoolTest.dir/Json/Json.cpp.o CMakeFiles/mySQLPoolTest.dir/Json/JsonParser.cpp.o CMakeFiles/mySQLPoolTest.dir/Json/JsonValue.cpp.o  -o bin/mySQLPoolTest -lmysqlclient -lpthread 

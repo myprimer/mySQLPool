@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/main.cpp.o -c /home/myubuntuos/mySQLPool-main/main.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/main.cpp"
+},
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/MySQLPool/ConnectPool.cpp.o -c /home/myubuntuos/mySQLPool-main/MySQLPool/ConnectPool.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/MySQLPool/ConnectPool.cpp"
+},
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/MySQLPool/MySQLConn.cpp.o -c /home/myubuntuos/mySQLPool-main/MySQLPool/MySQLConn.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/MySQLPool/MySQLConn.cpp"
+},
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/Json/Json.cpp.o -c /home/myubuntuos/mySQLPool-main/Json/Json.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/Json/Json.cpp"
+},
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/Json/JsonParser.cpp.o -c /home/myubuntuos/mySQLPool-main/Json/JsonParser.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/Json/JsonParser.cpp"
+},
+{
+  "directory": "/home/myubuntuos/mySQLPool-main/build",
+  "command": "/usr/bin/g++   -I/home/myubuntuos/mySQLPool-main/./MySQLPool/include -I/home/myubuntuos/mySQLPool-main/./Json/include -I/usr/local/lib -I/usr/include/mysql  -g   -Wall -pthread -lmysqlclient -std=c++17 -o CMakeFiles/mySQLPoolTest.dir/Json/JsonValue.cpp.o -c /home/myubuntuos/mySQLPool-main/Json/JsonValue.cpp",
+  "file": "/home/myubuntuos/mySQLPool-main/Json/JsonValue.cpp"
+}
+]
